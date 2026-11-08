@@ -1,0 +1,278 @@
+[Event "?"]
+[Site "?"]
+[Date "2022.02.22"]
+[Round "?"]
+[White "French 3.e5"]
+[Black "?"]
+[Result "*"]
+[ECO "C02"]
+[Annotator "GM_Avetik"]
+[PlyCount "24"]
+[EventDate "2022.??.??"]
+[SourceVersionDate "2022.02.22"]
+
+{Dear Champions! Before you go ahead please read the following 2 articles, on
+how to work with this file and how to memorize the variations. https://
+chessmood.com/blog/how-to-memorize-chess-openings-variations and https://
+chessmood. com/blog/the-most-effective-way-to-create-chess-pgn-files I made a
+draft file for you with homework. After you watch the course, I recommend to
+add here all the things you've learned. Good luck!} 1. e4 e6 2. d4 d5 3. e5 {
+What're the bishops we want to exchange?} Bd7 {The 3rd option and my
+recommendation} (3... c5 4. c3 Nc6 (4... Qb6 5. Nf3 Bd7 {[%csl Gb5][%cal Gd7b5]
+The 2nd option}) 5. Nf3 Qb6 {[%csl Rd4,Gf5][%cal Gg8f5] The 1st option}) 4. Nf3
+(4. f4 {What's the downside of this move?}) 4... a6 5. Bd3 (5. c4 {How do we
+face this move?}) (5. a4 {What's the downside of 5.a4? Why the a2 pawn's place
+is on a3?}) (5. Nc3 c5 {[%csl Re5][%cal Gb8c6,Gc5d4]} 6. dxc5 Bxc5 7. Bd3 Nc6
+8. O-O Nge7 {What's our plan? Do we castle short or long?}) 5... Bb5 6. O-O (6.
+Bxb5+ axb5 7. O-O {Our plan is:} Ne7 8. Kh1 Nf5 9. Kg1 Nd7 10. Kh1 Nb6 11. Kg1
+c6 12. Kh1 Be7 13. Kg1 Kd7 $1 14. Kh1 h5 15. Kg1 g5 16. Kh1 Qg8 17. Kg1 Qg6 {
+[%csl Rg1][%cal Gh5h4,Gg5g4] [#]}) 6... Bxd3 (6... Ne7 $5) 7. Qxd3 Ne7 $1 {
+My preference} (7... c5 8. c3 Nc6 9. Re1 cxd4 10. cxd4 Nge7 {[%csl Ge7,Gf5]
+[%cal Ge7f5,Gf8e7]}) 8. Re1 Nf5 {The plan is:} 9. c3 Be7 (9... c5 $5) 10. Nbd2
+Nc6 11. Nf1 h5 12. Bd2 g5 {[#]} *
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.22"]
+[Round "?"]
+[White "French 3.ed5"]
+[Black "?"]
+[Result "*"]
+[ECO "C01"]
+[Annotator "GM_Avetik"]
+[PlyCount "24"]
+[EventDate "2022.??.??"]
+[SourceVersionDate "2022.02.22"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 (4. c4 {What's the strategic problem of
+this move?} Nf6 5. Nf3 Be7 6. Be2 (6. cxd5 Nxd5 {[%csl Rd4,Gd5]}) (6. c5 b6 {
+[%csl Rc5]} 7. b4 {How do we break the pawn chain?} (7. cxb6 axb6 {[%cal Ga8a1]
+})) 6... dxc4 {Now we win a tempo}) 4... Nc6 (4... Bd6 $5) (4... Bg4 $5) 5. Be2
+Bd6 (5... Bg4 $5) 6. O-O Nge7 {Our setup is} 7. Kh1 Bg4 8. Kg1 Qd7 9. Kh1 O-O-O
+10. Kg1 f6 11. Kh1 g5 12. Kg1 h5 *
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.22"]
+[Round "?"]
+[White "French 3.Nc3"]
+[Black "?"]
+[Result "*"]
+[ECO "C10"]
+[Annotator "GM_Avetik"]
+[PlyCount "9"]
+[EventDate "2022.??.??"]
+[SourceVersionDate "2022.02.22"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 (4. Bd3 c5 {[%csl Rd4]} 5. exd5 cxd4) (4.
+Bg5 h6 5. Bh4 (5. Bxf6 Qxf6 6. e5 (6. exd5 Bb4 7. dxe6 Bxe6 {What's our plan?})
+6... Qd8 {[%csl Rb2,Gb6,Gc5,Rd4][%cal Gc7c5,Gd8b6]}) 5... g5 6. Bg3 {Grab the
+pawn the way you like :)} dxe4 $5 (6... Nxe4 $5)) 4... Ng8 $5 (4... Nfd7 $5 5.
+f4 c5 6. Nf3 Nc6 7. Be3 a6 {[%csl Gb5][%cal Gb7b5]} (7... Qb6 $5)) 5. f4 {
+How do we play after 5.f4?} (5. Nf3 c5 6. dxc5 Bxc5 7. Bd3 Nc6 8. O-O Nge7 $2 {
+What's the key move we should do before playing Nge7? How we should secure the
+a7-g1 diagonale for our bishop?}) (5. Be3 Ne7 6. Nf3 Nf5 {[%csl Gc5,Re3][%cal
+Gc7c5]}) (5. Nce2 Bd7 6. Ng3 a6 {[%csl Gb5][%cal Gd7b5]}) *
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.22"]
+[Round "?"]
+[White "French 3.Nd2"]
+[Black "?"]
+[Result "*"]
+[ECO "C03"]
+[Annotator "GM_Avetik"]
+[PlyCount "14"]
+[EventDate "2022.??.??"]
+[SourceVersionDate "2022.02.22"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 $5 4. Ngf3 (4. c3 e5 $1 (4... Nf6 $2 5. e5 Nd7 6.
+f4 {[%csl Gc3,Gd4,Ge5,Gf4]}) 5. exd5 (5. dxe5 dxe4 6. Nxe4 Qxd1+ 7. Kxd1 Nxe5 {
+[%csl Rd1][%cal Gc8f5,Ge8c8]}) 5... Qxd5 6. Bc4 (6. dxe5 Nxe5 7. Qe2 Be6 {
+[%csl Gc8][%cal Ge8c8]}) 6... Qxg2) (4. Bb5 dxe4 5. Nxe4 Qd5 {[%csl Rb5,Re4]}
+6. Bxc6+ Qxc6 7. Qe2 Nf6 8. Nxf6+ gxf6 {[%cal Gb7b6,Gc8b7,Ge8c8]}) (4. e5 $2
+Nxd4) 4... Nf6 {[%csl Re4]} 5. e5 (5. Bd3 Nb4 {[%csl Rd3]}) 5... Nd7 6. Be2 f6
+7. exf6 Qxf6 {What's our plan?} *
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.22"]
+[Round "?"]
+[White "3.Bd3"]
+[Black "?"]
+[Result "*"]
+[ECO "C01"]
+[Annotator "GM_Avetik"]
+[PlyCount "9"]
+[EventDate "2022.??.??"]
+[SourceVersionDate "2022.02.22"]
+
+1. e4 e6 2. d4 d5 3. Bd3 Nc6 $5 {[%csl Rd4]} 4. c3 (4. e5 $2 Nxd4) (4. Nf3 Nb4)
+(4. Ne2 Nb4 5. O-O Nxd3 6. Qxd3 dxe4 7. Qxe4 Nf6 8. Qd3 b6 {[%csl Gb7][%cal
+Gc8b7]}) 4... e5 5. dxe5 {Do we take on e4 or on e5?} (5. exd5 Qxd5) *
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.22"]
+[Round "?"]
+[White "Rare 2nd moves"]
+[Black "?"]
+[Result "*"]
+[ECO "C00"]
+[Annotator "GM_Avetik"]
+[PlyCount "8"]
+[EventDate "2022.??.??"]
+[SourceVersionDate "2022.02.22"]
+
+1. e4 e6 2. Nf3 (2. c4 d5 3. cxd5 exd5 4. exd5 {How do we play here?}) (2. Qe2
+e5 $5 {[%csl Ge5][%cal Ge6e5] What are our next moves?}) (2. d3 d5 3. Nd2 (3.
+Nf3 dxe4 4. dxe4 Qxd1+ 5. Kxd1 b6 {[%csl Gb7,Gc5,Gf6][%cal Gc8b7,Gf8c5,Gg8f6]})
+3... e5 $5 {[%cal Gg8f6,Gb8c6]} 4. exd5 Qxd5 {[%csl Gd5][%cal Rb1c3,Rc3d5]})
+2... d5 3. Nc3 Nf6 4. e5 Nfd7 $5 {[%cal Gc7c5,Gb8c6]} (4... Ng8 $5) *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Dutch vs London"]
+[Black "?"]
+[Result "*"]
+[ECO "A80"]
+[Annotator "GM_Avetik"]
+[PlyCount "14"]
+[EventDate "2022.??.??"]
+[SourceVersionDate "2022.04.23"]
+
+1. d4 e6 {A smart move order} 2. Bf4 (2. Nf3 f5 3. Bf4 Nf6 {[%csl Gb6][%cal
+Gb7b6] Transposition}) 2... f5 3. e3 Nf6 4. Nf3 b6 $1 (4... d6 $5 5. Be2 Nc6 6.
+O-O Qe7 {[%cal Gh7h6,Gg7g5,Gf8g7]}) 5. Be2 Bb7 6. O-O {We have different
+options} (6. h3 {We're always happy to see this move. Our attack will be
+faster, as the "h3" will be a nice target for us.  We have different options.}
+d6 $5 (6... Be7 7. O-O Ne4 $5 {[%cal Gd7d6,Gb8d7,Gg7g5,Gh7h5]} (7... O-O 8. c4
+Ne4 {[%cal Gg7g5,Gh7h5]})) 7. O-O Nbd7 8. c3 Ne4 {[%csl Rh3][%cal Gg7g5,Gh7h5,
+Gg5g4]}) 6... Be7 (6... d6 $5 {[%cal Gb8d7,Gd8e7,Gf6e4,Gg7g5]}) 7. c4 Ne4 {
+[%csl Gd6,Gg5][%cal Gd7d6,Gg7g5]} (7... d6 $2 8. Ng5) *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Dutch vs normal development"]
+[Black "?"]
+[Result "*"]
+[ECO "A84"]
+[Annotator "GM_Avetik"]
+[PlyCount "14"]
+[EventDate "2022.??.??"]
+[SourceVersionDate "2022.04.23"]
+
+1. d4 e6 2. c4 f5 3. Nf3 (3. a3 Nf6 4. Nc3 b6 5. Nf3 Bb7) 3... Nf6 4. Nc3 Bb4
+$1 {Now if they allow us to take on c3 and double their pawns, we do that.} (
+4... b6 $5 {is also fine, but I prefer to get rid of the dark-squared bishop
+as soon as possible.}) 5. Bg5 (5. e3 Bxc3+) (5. Bf4 Bxc3+ 6. bxc3 b6 $5 (6...
+O-O $5 {[%cal Gb7b6]})) (5. Bd2 b6 $5 {I like delaying 0-0 and showing our
+cards} (5... O-O 6. a3 Bxc3 7. Bxc3 b6) 6. a3 Bxc3 7. Bxc3 Bb7) 5... Bxc3+ 6.
+bxc3 h6 {[%csl Rg5] Asking to show the cards} 7. Bxf6 (7. Bh4 $2 g5 8. Bg3 f4 {
+[%csl Rg3]}) 7... Qxf6 {[%csl Rc3,Rc4]} *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Dutch Swonewall"]
+[Black "?"]
+[Result "*"]
+[ECO "A90"]
+[Annotator "GM_Avetik"]
+[PlyCount "16"]
+[EventDate "2022.??.??"]
+[SourceVersionDate "2022.04.23"]
+
+1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 d5 5. Nf3 (5. Nh3 c6 6. O-O Bd6 7. Bf4 Be7
+$1 {[%csl Rh3] And then we play against h3 "monster" knight.}) 5... c6 (5...
+Bd6 $2 {Why we should play c6 first?}) 6. O-O Bd6 7. b3 {[%csl Ga3][%cal Gc1a3]
+} (7. Bf4 {How do we play here?}) (7. cxd5 {How do we take on d5?}) (7. c5 Bc7)
+7... Qe7 $1 {A key move to remember} 8. Bb2 (8. a4 a5 $1 {[%csl Rb4]}) 8... O-O
+{[%csl Ge4][%cal Gc8d7,Gd7e8,Ge8h5,Gf6e4]} *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Dutch vs other systems"]
+[Black "?"]
+[Result "*"]
+[ECO "A90"]
+[Annotator "GM_Avetik"]
+[PlyCount "18"]
+[EventDate "2022.??.??"]
+[SourceVersionDate "2022.04.23"]
+
+1. d4 e6 2. Nf3 f5 3. Bg5 {The Torre attack} (3. e3 {The Colle system} Nf6 4.
+Be2 b6 5. O-O Bb7 6. c3 d6 7. Nbd2 Nbd7 8. b3 Ne4 9. Bb2 Be7 {[%cal Ge8g8,
+Gf8f6,Gf6h6]}) 3... Be7 $1 4. Bxe7 Qxe7 {[%csl Rb2,Re1][%cal Ge7b4]} 5. Nbd2
+Nf6 6. e3 b6 {I like to delay castling.} 7. Be2 Bb7 8. c3 d6 9. O-O Nbd7 {
+All good!} *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Dutch vs Veresov"]
+[Black "?"]
+[Result "*"]
+[ECO "A40"]
+[Annotator "GM_Avetik"]
+[PlyCount "6"]
+[EventDate "2022.??.??"]
+[SourceVersionDate "2022.04.23"]
+
+1. d4 e6 2. Nc3 Nf6 $1 {My favoruite reply} (2... f5 $2 3. e4) (2... d5 $5 3.
+e4 {Trasnposes to French}) 3. Bf4 (3. e4 d5 {Transposing to French}) 3... Bb4 {
+[%cal Gb4c3,Gb7b6]} *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Dutch vs Gambits"]
+[Black "?"]
+[Result "*"]
+[ECO "A84"]
+[Annotator "GM_Avetik"]
+[PlyCount "12"]
+[EventDate "2022.??.??"]
+[SourceVersionDate "2022.04.23"]
+
+1. d4 e6 2. c4 f5 3. e4 (3. g4 fxg4 4. h3 g3 $5 (4... Qh4 $5 {[%cal Gg4g3]} 5.
+Bf4 Bd6 6. Bxd6 cxd6 {[%csl Rf2][%cal Gg4g3,Gg8e7,Ge8g8]}) 5. fxg3 c5 {[%cal
+Gb8h2,Ga7g1]}) 3... fxe4 4. Nc3 (4. f3 d5 $1 5. fxe4 $2 Qh4+) 4... Nf6 5. Bg5 (
+5. f3 d5 (5... Bb4 {is also fine. But it's easier to remember: Whenever f3 we
+go d5.})) 5... Bb4 $5 6. f3 d5 $17 *
+
+[Event "?"]
+[Site "?"]
+[Date "2023.04.16"]
+[Round "?"]
+[White "Against other moves"]
+[Black "?"]
+[Result "*"]
+[ECO "C00"]
+[Annotator "GM Avetik"]
+[PlyCount "7"]
+[EventDate "2022.??.??"]
+[SourceVersionDate "2023.04.16"]
+
+1. c4 (1. Nf3 e6 2. e4 (2. d4 f5 {Transposing to Dutch}) (2. c4 f5) (2. g3 f5)
+2... d5 {Transposing to French}) (1. g3 e6 2. Bg2 (2. d4 f5) 2... f5 3. e4 $6
+fxe4 4. Bxe4 Nf6) (1. g4 d5 2. Bg2 c6 {[%csl Rg4][%cal Gc8g4]} 3. h3 e5 {
+[%csl Gd5,Ge5]}) (1. b3 d5 2. Bb2 Bg4 $1 {And then we setup stonewall}) (1. b4
+d5 2. Bb2 Bg4 {And then we setup stonewall}) (1. f4 e6 2. Nf3 (2. e4 d5 {
+Transposing to French}) 2... f5 3. e3 Nf6 4. Be2 b6 5. O-O Bb7 {[%cal Gd8e7,
+Gd7d6,Gb8d7]}) ({Against random moves} 1. a3 e5 2. h3 d5 3. b3 Nc6 4. Bb2 f5 5.
+e3 Nf6 6. d3 Bd6 7. Nd2 O-O {[%cal Gd8e7,Ge5e4,Gf5f4,Gc8d7,Ga8e8]}) 1... e6 2.
+e4 (2. d4 f5 {Transposing to Dutch}) (2. Nf3 f5) (2. Nc3 f5 3. e4 fxe4 4. Nxe4
+Nf6 {All is good}) 2... d5 {Transposing to French.} 3. exd5 exd5 4. cxd5 {
+What do we play here?} *
+
