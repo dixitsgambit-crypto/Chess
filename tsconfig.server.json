@@ -1,0 +1,9 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "lib": ["ES2023"],
+    "types": ["node"],
+    "jsx": "react-jsx"
+  },
+  "include": ["server", "scripts/*.ts", "src/content", "src/chess", "src/academy/progression.ts"]
+}
