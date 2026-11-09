@@ -1,0 +1,9 @@
+node_modules/
+dist/
+# personal material that must never be published (e.g. the teacher reference photo)
+private/
+# player accounts and progress (SQLite)
+data/
+*.db
+*.db-shm
+*.db-wal
